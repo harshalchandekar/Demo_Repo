@@ -1,2 +1,2 @@
 # Demo_Repo
-This is just a practise repo
+This is just a demo repo.
